@@ -2,9 +2,12 @@
 
 A React Native app for the code-breaking game Mastermind
 
-<img src="https://lh3.googleusercontent.com/Qyg_A2SUKTxj8AXPQdgj-lRogjSuZlvx8BzRjHiwBN_8fWGCzFhWm2yQST5O5L3_dyQs=w1734-h1564"/>
+<div style="overflow: auto;">
+<img src="https://lh3.googleusercontent.com/Qyg_A2SUKTxj8AXPQdgj-lRogjSuZlvx8BzRjHiwBN_8fWGCzFhWm2yQST5O5L3_dyQs=w1734-h1564" width="45%" style="float: left;padding: 2%;"/>
 
-<img src="https://lh3.googleusercontent.com/zEYkDjnrbVcxHYsjfNyBL8t_oMUHn54tYqZJ2TW3RQXdITCO5hcC_9xjAQETPH7gOY8-=w1734-h1564">
+<img src="https://lh3.googleusercontent.com/zEYkDjnrbVcxHYsjfNyBL8t_oMUHn54tYqZJ2TW3RQXdITCO5hcC_9xjAQETPH7gOY8-=w1734-h1564" width="45%" style="float: left;padding: 2%;">
+
+</div>
 
 ## Installation
 
